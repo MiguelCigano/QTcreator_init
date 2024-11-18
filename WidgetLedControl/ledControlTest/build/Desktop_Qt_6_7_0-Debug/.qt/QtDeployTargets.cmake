@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_ledControlTest_FILE /home/jmiguel-nitro/Documents/qt_projects/WidgetLedControl/ledControlTest/build/Desktop_Qt_6_7_0-Debug/ledControlTest)

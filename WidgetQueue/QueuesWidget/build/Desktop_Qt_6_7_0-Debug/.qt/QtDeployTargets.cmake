@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_QueuesWidget_FILE /home/jmiguel-nitro/Documents/qt_projects/WidgetQueue/QueuesWidget/build/Desktop_Qt_6_7_0-Debug/QueuesWidget)

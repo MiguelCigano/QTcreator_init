@@ -1,0 +1,9 @@
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/qdebug.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/qdebug_autogen_timestamp_deps.dir
+/home/jmiguel-nitro/Documents/qt_projects/qdebug/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/qdebug_autogen.dir

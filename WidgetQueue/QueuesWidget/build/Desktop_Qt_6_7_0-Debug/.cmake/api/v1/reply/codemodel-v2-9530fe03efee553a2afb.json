@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8fe418fce95473f8e9f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QueuesWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QueuesWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QueuesWidget-Debug-a9aa1896ec7ea5ee8d50.json",
+					"name" : "QueuesWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QueuesWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QueuesWidget_autogen-Debug-4ab1d1c1c4151473882d.json",
+					"name" : "QueuesWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QueuesWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QueuesWidget_autogen_timestamp_deps-Debug-417b85b00929c708b67e.json",
+					"name" : "QueuesWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jmiguel-nitro/Documents/qt_projects/WidgetQueue/QueuesWidget/build/Desktop_Qt_6_7_0-Debug",
+		"source" : "/home/jmiguel-nitro/Documents/qt_projects/WidgetQueue/QueuesWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
